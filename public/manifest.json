@@ -2,7 +2,7 @@
 	"name": "Netra - Multi-Platform Search Assistant",
 	"short_name": "Netra",
 	"description": "Netra lets you search across multiple platforms with ease, delivering quick and unified access to information.",
-	"start_url": "/index.html",
+	"start_url": "/Netra/index.html",
 	"display": "standalone",
 	"background_color": "#0F172A",
 	"theme_color": "#0F172A",
